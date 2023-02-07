@@ -35,7 +35,7 @@
           <button @click="pressed('-')">-</button>
 
           <button @click="pressed('1')">1</button>
-          <button @click="pressed('2')">2</button>
+          <button @click="pressed('2')">2</button> 
           <button @click="pressed('3')">3</button>
           <button @click="pressed('+')">+</button>
           
